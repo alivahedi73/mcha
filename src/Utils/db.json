@@ -1,0 +1,18 @@
+{
+  "Menu": [
+    { "id": 1, "name": "Manufactory & Processing Machinery" },
+    { "id": 2, "name": "consumer electronics" },
+    { "id": 3, "name": "industrial Equipment & components" },
+    { "id": 4, "name": "Electrical & electronic" },
+    { "id": 5, "name": "constraction & decoration" },
+    { "id": 6, "name": "light industrial" },
+    { "id": 7, "name": "Auto motorcycle parts" },
+    { "id": 8, "name": "Apparel & accessories" },
+    { "id": 9, "name": "lights" },
+    { "id": 10, "name": "sporting good" },
+    { "id": 11, "name": "transportation" },
+    { "id": 12, "name": "arts" },
+    { "id": 13, "name": "Health and medicine" },
+    { "id": 14, "name": "computer products" }
+  ]
+}
